@@ -1,0 +1,18 @@
+#header0 {
+
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#header2 {
+	display: flex;
+}
+
+#header0 div {
+	padding: 15px;
+}
+
+#header0 div:hover {
+	cursor: pointer;
+}
